@@ -15,9 +15,15 @@ body{
 }
 
 #banner {
-
+   width: 100%;
 }
 
 em strong {
     color: #FF0000;
 }
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios: #FFFFFF
