@@ -1,2 +1,2 @@
-# repositório da gene<3
+# repositório da gene
 Aluna (Genesis Valentina Bonalde Figuera), número de chamada (18) 
