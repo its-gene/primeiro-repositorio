@@ -11,8 +11,14 @@ h1{
 }
 
 body{
-    background: #CCCCCC;
+
 }
+
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
+    
 
 #banner {
    width: 100%;
@@ -26,4 +32,22 @@ em strong {
     font-style: italic;
 }
 
-.beneficios: #FFFFFF
+.beneficios{ 
+    background:#FFFFFF ;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios{
+    width: 50%;
+}
