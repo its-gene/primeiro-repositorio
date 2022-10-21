@@ -1,20 +1,24 @@
-p {
-    <text-align: center; 
-}    
+p{
+    text-align: center;
+}
+
 
 #missao {
      font-size: 20px
 }
  
 h1{
+    
     text-align: center; 
 }
 
-body{
-
+.titulo-centralizado{
+text-align: center;
 }
 
-.principal{
+body
+
+.titulo-principal{
     background: #CCCCCC;
     padding: 30px;
 }
@@ -34,7 +38,7 @@ em strong {
 
 .beneficios{ 
     background:#FFFFFF ;
-    padding: 20px;
+    padding-left: 20px;
 }
 
 h2{
